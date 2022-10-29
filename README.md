@@ -5,6 +5,6 @@ add a line of text
 
 ## Subtitle
 
-1 Idea número 1
-2 Idea número 2
+  1. Idea número 1
+  2. Idea número 2
 
