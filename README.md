@@ -6,8 +6,10 @@ add a line of text
 ## Subtitle
 
   1. Idea número 1
+  
     1. Subidea 1
     2. Subidea 2
     3. Subidea 3
+    
   2. Idea número 2
 
